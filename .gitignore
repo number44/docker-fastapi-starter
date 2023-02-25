@@ -1,0 +1,22 @@
+# Python-related files
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*.log
+*.pid
+
+# Environment-related files
+.env
+
+# Image-related files
+*.jpg
+*.jpeg
+*.png
+
+# Other files
+.DS_Store
+.idea/
+.vscode/
